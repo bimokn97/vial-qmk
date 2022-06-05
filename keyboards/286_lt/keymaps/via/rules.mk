@@ -1,0 +1,5 @@
+VIA_ENABLE = yes
+LTO_ENABLE = yes # disable it for debug
+
+DYNAMIC_MACRO_ENABLE = yes
+DYNAMIC_TAPPING_TERM_ENABLE = yes
